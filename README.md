@@ -1,9 +1,9 @@
 # CE{Code of Course}-{Short Name of Course}
-Solutions to Prof. {Name of Prof}'s CE{Code of Course}: {Full Name of Course} ({Name of Uni} - {Semester} {Year}) Assignments
+Solutions to Dr. Hesabi's CE212: Logic Design (Sharif University of Technology - Spring 2020) Assignments
 
 ## Overview
 
-This repository contains solutions to the assignments for the CE{Code of Course}: {Full Name of Course} course at the {Name of Uni}, {Semester} {Year}, taught by Prof. {Name of Prof}.
+This repository contains solutions to the assignments for the CE212: Dr. Hesabi course at the Sharif University of Technology, Spring 2020, taught by Dr. Hesabi.
 
 ## Table of Contents
 
