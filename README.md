@@ -1,4 +1,4 @@
-# CE{Code of Course}-{Short Name of Course}
+# CE212-LD
 Solutions to Dr. Hesabi's CE212: Logic Design (Sharif University of Technology - Spring 2020) Assignments
 
 ## Overview
