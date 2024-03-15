@@ -9,7 +9,7 @@ This repository contains solutions to the assignments for the CE212: Dr. Hesabi 
 
 - [Overview](#overview)
 - [Assignments](#assignments)
-- [Exams](#exams)
+- [Exam](#exam)
 - [Slides](#slides)
 - [Notes](#notes)
 - [Source](#source)
@@ -19,9 +19,9 @@ This repository contains solutions to the assignments for the CE212: Dr. Hesabi 
 
 In the "Assignments" folder, you will find the solutions to assignments given during the course.
 
-## Exams
+## Exam
 
-In the "Exams" folder, you will find the solutions to the midterm and final of the course.
+In the "Exam" folder, you will find the solutions to the midterm and final of the course.
 
 ## Slides
 
