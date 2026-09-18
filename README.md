@@ -1,9 +1,9 @@
 # CE212-LD
-Solutions to Dr. Hesabi's CE212: Logic Design (Sharif University of Technology - Spring 2020) Assignments
+Solutions to Dr. Hesabi's CE212: Logic Design (Sharif University of Technology - Spring 2021) Assignments
 
 ## Overview
 
-This repository contains solutions to the assignments for the CE212: Dr. Hesabi course at the Sharif University of Technology, Spring 2020, taught by Dr. Hesabi.
+This repository contains solutions to the assignments for the CE212: Logic Design course at the Sharif University of Technology, Spring 2021, taught by Dr. Hesabi.
 
 ## Table of Contents
 
